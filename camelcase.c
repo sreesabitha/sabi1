@@ -22,6 +22,6 @@
     }
     }
     }
-    printf("%ds",a);
+    printf("%ds",s);
  return 0;
  }
